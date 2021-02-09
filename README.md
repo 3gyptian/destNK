@@ -1,13 +1,12 @@
 # destSK
 it can be done riding the wind and waves 
 
-## Links
-
+# Superhydrophobic Grille 
+cool..
 
 https://aip.scitation.org/doi/full/10.1063/1.3633686
 
+# Parts
 
-# Superhydrophobic Grille 
-cool..
 https://www.reddit.com/r/robotics/comments/5jzlel/smooth_stepper_motor_to_propeller_shaft_or/
 

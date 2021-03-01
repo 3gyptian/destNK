@@ -22,6 +22,8 @@ https://www.pololu.com/product/2133
 
 #### GPS Map Tracking 
 https://hackaday.com/tag/location-tracking/
+
 https://blog.ivor.org/2020/07/homebrew-gps-tracking.html
+
 https://leafletjs.com/
 
